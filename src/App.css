@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+pre {
+  background-color: #f4f;
+  padding: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  line-height-step: 0;
+}
